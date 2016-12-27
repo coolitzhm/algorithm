@@ -1,4 +1,4 @@
-package second;
+package thred;
 
 /*
  * 有重复字符的情况

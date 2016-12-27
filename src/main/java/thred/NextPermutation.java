@@ -1,4 +1,4 @@
-package second;
+package thred;
 
 /*
  * 实现全排列的时间复杂度：O(n* n!)

@@ -1,4 +1,4 @@
-package second;
+package thred;
 /*
  *  暴力解法
  */

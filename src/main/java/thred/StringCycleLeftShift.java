@@ -1,4 +1,4 @@
-package second;
+package thred;
 
 public class StringCycleLeftShift {
 	public static String leftShift(String s, int n) {

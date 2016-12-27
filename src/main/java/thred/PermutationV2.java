@@ -1,4 +1,4 @@
-package second;
+package thred;
 
 /*
  * when the array include the same values

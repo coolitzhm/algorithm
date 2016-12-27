@@ -1,4 +1,4 @@
-package second;
+package thred;
 
 public class KMPnew {
 	public static int KMPMatch(String text,String pattern){

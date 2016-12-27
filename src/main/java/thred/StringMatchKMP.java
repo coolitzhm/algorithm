@@ -1,4 +1,4 @@
-package second;
+package thred;
 
 public class StringMatchKMP {
 

@@ -1,4 +1,4 @@
-package second;
+package thred;
 
 /*
  * find the longest palindrome subString

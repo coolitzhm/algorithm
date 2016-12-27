@@ -1,4 +1,4 @@
-package second;
+package thred;
 
 /*
  * 只返回可能的一个LCS

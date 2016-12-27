@@ -1,4 +1,4 @@
-package second;
+package thred;
 
 public class Permutation {
 	public static void permutation(int[] a, int size, int n) {

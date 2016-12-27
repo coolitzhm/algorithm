@@ -1,4 +1,4 @@
-package second;
+package thred;
 
 public class PowerString {
 	public static int getMinPeriod(String s) {
